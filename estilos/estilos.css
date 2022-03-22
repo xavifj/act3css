@@ -1,0 +1,39 @@
+body{
+    /*background-color: yellow;*/
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-image:url(../imagenes/fondo.jpg);
+    background-size: cover;
+}
+
+h1{
+    background-color:lightblue;
+    text-align: center;
+    border:5px solid blue;
+    padding:15px;
+
+}
+h2{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-family: italic;
+
+
+}
+ul{
+    list-style: none;
+    text-align: center;
+    
+}
+
+li{
+    background-color: white;
+    border: 3px solid orangered;
+    display: inline-block;
+    padding:10px;
+    margin:20px;
+
+}
+a{
+    color: orangered;
+}
